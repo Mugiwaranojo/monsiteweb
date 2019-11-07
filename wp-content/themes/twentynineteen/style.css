@@ -3715,6 +3715,7 @@ body.page .main-navigation {
 --------------------------------------------------------------*/
 .site-header {
   padding: 1em;
+  background: aliceblue;
 }
 
 .site-header.featured-image {
@@ -3843,7 +3844,7 @@ body.page .main-navigation {
 
 .site-description {
   display: inline;
-  color: #767676;
+  color: red;
   font-weight: normal;
   margin: 0;
 }
