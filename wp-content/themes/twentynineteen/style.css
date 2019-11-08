@@ -2313,6 +2313,7 @@ h1 {
 .has-larger-font-size,
 h2 {
   font-size: 1.6875em;
+  color: white;
 }
 
 @media only screen and (min-width: 768px) {
