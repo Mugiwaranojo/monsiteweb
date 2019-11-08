@@ -3707,6 +3707,7 @@ body.page .main-navigation {
 
 .site-content {
   overflow: hidden;
+  background: grey;
 }
 
 /* Content */
